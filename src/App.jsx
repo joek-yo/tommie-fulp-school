@@ -9,6 +9,7 @@ import HeroSection from './components/HeroSection';
 import Footer from './components/Footer';
 import AdmissionPage from './pages/AdmissionPage';
 import ContactPage from './pages/ContactPage';
+import GalleryPage from './pages/GalleryPage';
 
 function App() {
   return (
