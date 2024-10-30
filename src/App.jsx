@@ -7,6 +7,7 @@ import AboutPage from './pages/AboutPage';
 import Navbar from './components/Navbar';
 import HeroSection from './components/HeroSection';
 import Footer from './components/Footer';
+import AboutPage from './pages/AboutPage';
 
 function App() {
   return (
