@@ -5,6 +5,8 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import Navbar from './components/Navbar';
+import HeroSection from './components/HeroSection';
+import Footer from './components/Footer';
 
 function App() {
   return (

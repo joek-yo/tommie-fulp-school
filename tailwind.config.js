@@ -6,7 +6,12 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        skyblue: "#87CEEB",  // Customize as needed
+        navyblue: "#001F54", // Customize as needed
+      },
+    },
   },
   plugins: [],
 };
