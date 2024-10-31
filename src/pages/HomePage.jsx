@@ -2,6 +2,7 @@
 // Home Page for Tommie Fulp Adventist Academy, showcasing the school's mission and features.
 import React from 'react';
 import { Link } from 'react-router-dom';
+import HeroSection from '../components/HeroSection';
 
 function HomePage() {
   return (
